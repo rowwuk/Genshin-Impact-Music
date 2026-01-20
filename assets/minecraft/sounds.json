@@ -1,0 +1,19 @@
+{
+  "music.menu": {
+    "replace": true,
+    "sounds": [
+      {
+        "name": "genshin:music/menu/genshin_impact_main_theme",
+        "stream": true
+      },
+      {
+        "name": "genshin:music/menu/dream_aria",
+        "stream": true
+      },
+      {
+        "name": "genshin:music/menu/reminiscence",
+        "stream": true
+      }
+    ]
+  }
+}
